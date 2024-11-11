@@ -4,6 +4,20 @@
   </a>
 </p>
 
+
+
+| Acronym | Full Name | Orientation Notes |
+|---------|-----------|-------------------|
+| OSG     | Orpheus StoryGraph | Focused on storytelling and creative practices. |
+| OIG     | Orpheus InteractionGraph | Emphasizes capturing interactions and relationships. |
+| OTG     | Orpheus TemporalGraph | Highlights the temporal aspect of knowledge graphs. |
+| OIG     | Orpheus InsightGraph | Focuses on deriving insights from stored data. |
+| OKG     | Orpheus KnowledgeGraph | Emphasizes knowledge representation and retrieval. |
+| OIN     | Orpheus InsightNet | Combines insights with networked data structures. |
+| ODC     | Orpheus DialogClassifier | Flexible low-latency API for understanding intent and managing application flow. |
+| OSD     | Orpheus StructuredData | Extracts data from conversations with high-fidelity and low-latency. |
+| OIC     | Orpheus InsightClassifier | Reduces hallucinations, improves recall, and reduces the cost of LLM calls. |
+
 <h1 align="center">
 Zep: The Memory Foundation For Your AI Stack
 </h1>
