@@ -5,6 +5,7 @@
 </p>
 
 
+* [OIG Prompts](PROMPTS.oig.md)
 
 | Acronym | Full Name | Orientation Notes |
 |---------|-----------|-------------------|
